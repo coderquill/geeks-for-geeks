@@ -6,4 +6,4 @@
 
 ## Screenshots
 
-<img src="/screenshots/home.png" width="260" height="480"> 
+<img src="/screenshots/home.jpeg" width="260" height="480"> 
