@@ -1,0 +1,24 @@
+Given k sorted arrays each of N size. Your task is to merge all these sorted arrays in non-increasing sorted order.
+
+Input : First line of input contains number of testcases. For each testcase, first line contains K and N, next K lines contains N array of integers.
+
+Output :  For each testcase, output the merged non-increasing sorted array.
+
+Constraints :
+1 <= T <= 100
+1 <= K,N <= 103 
+1 <= A[i] <= 1012
+
+Example :
+Input :
+1
+3 4
+1 2 3 10
+1 1 2 6
+4 6 7 9
+
+Output : 
+10 9 7 6 6 4 3 2 2 1 1 1
+
+Explanation :
+After merging all three sorted array, we have resultant array as output which is non-increasing sorted.
